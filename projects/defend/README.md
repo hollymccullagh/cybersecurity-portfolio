@@ -1,0 +1,3 @@
+'Defend' projects to come...
+- Wazuh SIEM Deployment
+- Security Onion Deployment
